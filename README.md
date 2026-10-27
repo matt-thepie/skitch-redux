@@ -48,3 +48,7 @@ Hotkeys work globally; there's also a menu bar icon.
 - `ImageIO.swift` — loading images from files, data and the clipboard
 - `Capture.swift` — ScreenCaptureKit capture and Carbon global hotkeys
 - `AppDelegate.swift` — menus, menu bar item, launcher window
+
+## License
+
+MIT — see [LICENSE](LICENSE).
