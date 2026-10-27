@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:skitch-redux}",
+      "name": "Debug SkitchRedux",
+      "target": "SkitchRedux",
+      "configuration": "debug",
+      "preLaunchTask": "swift: Build Debug SkitchRedux"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:skitch-redux}",
+      "name": "Release SkitchRedux",
+      "target": "SkitchRedux",
+      "configuration": "release",
+      "preLaunchTask": "swift: Build Release SkitchRedux"
+    }
+  ]
+}
